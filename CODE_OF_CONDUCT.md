@@ -86,7 +86,7 @@ This outline may include:
 
 #### Reconsideration
 
-Any of the parties directly involved or affected can request reconsideration of the resolution. To make a request, please contact anyone from [Auth0 Community Team](https://github.com/orgs/auth0-community/teams/auth0-community) and your request will be reviewed.
+Any of the parties directly involved or affected can request reconsideration of the resolution. To make a request, please contact us at community@auth0.com and your request will be reviewed.
 
 ### 3. Enforcement Manual
 

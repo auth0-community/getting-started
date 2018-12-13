@@ -27,7 +27,7 @@ To begin with, we need to get to know a few terms and concepts so as to avoid mi
 
 * **Community repo:** a repo that belongs to auth0-community GitHub organisation
 * **Community contributor / developer:** someone who contributes to community repos via code, docs improvements, PRs / issues discussion
-**Community admins:** Auth0 Community Team members
+* **Community admins:** Auth0 Community Team members
 
 As we're growing our OSS community we'd like you to gradually take more and more control over those repos and become community admins as well. We're working hard on making your experience in auth0-community repos better day by day, so watch out for future engagements!
 

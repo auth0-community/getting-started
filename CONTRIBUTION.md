@@ -79,11 +79,14 @@ Whether it's about issues or PRs make use of labels, so that the rest of the com
 
 * **bug**: Something isn't working
 * **duplicate**: This issue or pull request already exist
-* **fix**: Fix to code
+* **fix**: Code fixes
 * **help wanted**: Extra attention is needed
 * **new feature**: New feature implementation suggestion
 * **question**: Further information is requested
 * **wontfix**: This will not be worked on
+* **difficulty: easy**: Quick to review and merge fixes or additions
+* **difficulty: medium**: Fixes or additions that will take approximately a few hours to review and merge
+* **difficulty: hard**: Fixes or additions that will take approximately a few days to review and merge
 
 ### Question? Problem? Where else can I go for help?
 

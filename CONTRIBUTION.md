@@ -84,6 +84,9 @@ Whether it's about issues or PRs make use of labels, so that the rest of the com
 * **new feature**: New feature implementation suggestion
 * **question**: Further information is requested
 * **wontfix**: This will not be worked on
+* **difficulty: easy**: quick to review and merge fixes or additions
+* **difficulty: medium**: fixes and additions that will take approximately a few hours to review and merge
+* **difficulty: hard**: fixes or additions that will take approximately a few days to review and merge
 
 ### Question? Problem? Where else can I go for help?
 

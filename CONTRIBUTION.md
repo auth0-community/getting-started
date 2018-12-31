@@ -77,11 +77,13 @@ Reviews and feedback must be helpful and made towards improving the contribution
 
 Whether it's about issues or PRs make use of labels, so that the rest of the community can prioritize and address those accordingly. Here are the labels that you can use:
 
+* **beginner-friendly**: Easy to implement fixes or changes for newbies
 * **bug**: Something isn't working
 * **duplicate**: This issue or pull request already exist
-* **fix**: Code fixes
-* **help wanted**: Extra attention is needed
-* **new feature**: New feature implementation suggestion
+* **code-fix**: Code fixes
+* **docs-fix**: Documentation fixes
+* **help-wanted**: Extra attention is needed
+* **new-feature**: New feature implementation suggestion
 * **question**: Further information is requested
 * **wontfix**: This will not be worked on
 * **difficulty: easy**: Quick to review and merge fixes or additions

@@ -2,27 +2,47 @@
 [<img align="right" src="/Assets/join_auth0_community_badge.png">](https://community.auth0.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
+<<<<<<< HEAD
 # 🤓 How to contribute to auth0-community repos
+=======
+# How to contribute to auth0-community repos
+>>>>>>> master
 
 All repos in this organisation are open source projects. We welcome contributions of all forms! Came across a bug in any of our community repos? Have an idea for some kind of improvement? Below you can find some guidelines on how to contribute, so as to make it work for the whole community in the long run. These repos are community maintained, so we're all in this together so et's do our best to address issues, assess changes and help each oother finalize all our pull requests 🤜🏼🤛🏻
 
 For now, this contribution guideline serves as a source of truth in terms of contributing to any of auth0-community repos. We are working on making the open-source contribution experience in these repos more smooth and we plan to implement a variety of improvements including changes to this file as well as adding contribution files to each repo at some point. In the meanwhile, if you want to start/continue contributing in the right way to these repos, please refer to this file.
 
+<<<<<<< HEAD
 ### 👩‍🏫 Code of Conduct
 
 Auth0-community organisation has a [Code of Conduct](https://github.com/auth0-community/getting-started/blob/master/CODE_OF_CONDUCT.md) to which all contributors must adhere.
 
 ### ✋ Intro
+=======
+### Code of Conduct
+
+Auth0-community organisation has a [Code of Conduct](https://github.com/auth0-community/getting-started/blob/master/CODE_OF_CONDUCT.md) to which all contributors must adhere.
+
+### Intro
+>>>>>>> master
 
 Don't feel like you have enough security and identity experience but want to contribute some way? No worries! We've got you covered! Join our [developer community](https://community.auth0.com/) to see what others are working on. Having a look at different issues and PRs in [community repos](https://github.com/auth0-community) might also be helpful!
 
 Finally, do not forget that you are not alone on this journey! Our [docs](https://auth0.com/docs/) are indeed a powerful tool, but hey! There are other contributors out there also asking questions and looking for answers!
 
+<<<<<<< HEAD
 ### ⚔️ Vulnerability reporting
 
 Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/responsible-disclosure-policy) details the procedure for disclosing security issues.
 
 ### 🛠️ Pull requests
+=======
+### Vulnerability reporting
+
+Please do not report security vulnerabilities on the public GitHub issue tracker. The [Responsible Disclosure Program](https://auth0.com/responsible-disclosure-policy) details the procedure for disclosing security issues.
+
+### Pull requests
+>>>>>>> master
 
 Wondering how PRs work in our community repos? Here's a quick rundown:
 
@@ -42,7 +62,11 @@ Wondering how PRs work in our community repos? Here's a quick rundown:
 
   **The Golden PR rule: Instead of one huge PR go for a few smaller ones!**
 
+<<<<<<< HEAD
 ### 🔧 Issues
+=======
+### Issues
+>>>>>>> master
 
 Found a bug in community repo? Here's more on how to report that so the community can get it fixed as soon as possible:
 
@@ -55,12 +79,17 @@ Found a bug in community repo? Here's more on how to report that so the communit
 
 For now refer to this process, but we're working on adding issue templates to all community repos. Stay tuned!
 
+<<<<<<< HEAD
 #### 🗝️ Old issues
+=======
+#### Old issues
+>>>>>>> master
 
 If an issue has been out there open for more than 90 days, we close them automatically. The aim of it is to ensure that new issues can be tracked more easily and old issues that are no longer relevant are closed.
 
 ### Review
 
+<<<<<<< HEAD
 #### ⌛ Timing
 
 Each PR or issue review takes time, we kindly ask you to be patient for each other.
@@ -82,12 +111,42 @@ Whether it's about issues or PRs make use of labels, so that the rest of the com
 * **fix**: Code fixes
 * **help wanted**: Extra attention is needed
 * **new feature**: New feature implementation suggestion
+=======
+#### Timing
+
+Each PR or issue review takes time, we kindly ask you to be patient for each other.
+
+#### Core Merge Rule
+
+As we mentioned above, to make sure we can ship quality code and create useful tools for whole community, before one's pull request can be merged, it needs approval from at least two people.
+
+#### Review discussion
+
+Reviews and feedback must be helpful and made towards improving the contribution as opposed to blocking it. Be open for constructive discussion and always try to explain your point of view. Respect the fact that you'll be working with people who potentially may have different approach than yours.
+
+#### Labels
+
+Whether it's about issues or PRs make use of labels, so that the rest of the community can prioritize and address those accordingly. Here are the labels that you can use:
+
+* **announcement**: Announcements
+* **beginner-friendly**: Easy to implement fixes or changes for newbies
+* **bug**: Something isn't working
+* **duplicate**: This issue or pull request already exist
+* **code-fix**: Code fixes
+* **docs-fix**: Documentation fixes
+* **help-wanted**: Extra attention is needed
+* **new-feature**: New feature implementation suggestion
+>>>>>>> master
 * **question**: Further information is requested
 * **wontfix**: This will not be worked on
 * **difficulty: easy**: Quick to review and merge fixes or additions
 * **difficulty: medium**: Fixes or additions that will take approximately a few hours to review and merge
 * **difficulty: hard**: Fixes or additions that will take approximately a few days to review and merge
 
+<<<<<<< HEAD
 ### 🤷 Question? Problem? Where else can I go for help?
+=======
+### Question? Problem? Where else can I go for help?
+>>>>>>> master
 
 As mentioned above, if you need any kind of help, you can either contact us at community@auth0.com or go to [developer community](https://community.auth0.com/) to get your question a wider audience.

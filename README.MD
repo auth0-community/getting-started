@@ -21,11 +21,7 @@
 
 Welcome to our intro space 👋 This is your place to go to get some hands-on tips on how to make our mutual contribution experience to Auth0 Community repos the best out there! We strongly believe in power of open source software, that's why we're putting together this repo to make your contributions and our collaboration as smooth as possible 🤝 As we're always in the process of improving, there will be gradual changes implemented to this repo as well as auth0-community contributing experience in general. Keep your fingers crossed and watch out for facilitations 🤞🏼
 
-<<<<<<< HEAD
 ### 👋 Intro
-=======
-### Intro
->>>>>>> master
 
 To begin with, we need to get to know a few terms and concepts so as to avoid misunderstanding while co-operating and communicating in the future:
 
@@ -35,11 +31,7 @@ To begin with, we need to get to know a few terms and concepts so as to avoid mi
 
 As we're growing our OSS community we'd like you to gradually take more and more control over those repos and become community admins as well. We're working hard on making your experience in auth0-community repos better day by day, so watch out for future engagements!
 
-<<<<<<< HEAD
 ### 🦶 First Steps
-=======
-### First Steps
->>>>>>> master
 
 Before making your first contribution to any of our repos, we highly recommend checking following files:
 
@@ -49,21 +41,13 @@ Before making your first contribution to any of our repos, we highly recommend c
 
 that apply to each of our repos and will give you some insight on how to do stuff and stuff that is not allowed in here. We designed it having your best contributor experience in mind!
 
-<<<<<<< HEAD
 ### 👮 Permissions and rights
-=======
-### Permissions and rights
->>>>>>> master
 
 You can find **all permissions, rights and dont-do things in [contributing guideline](https://github.com/auth0-community/getting-started/blob/master/CONTRIBUTION.md)** as well as in our **[code of conduct](https://github.com/auth0-community/getting-started/blob/master/CODE_OF_CONDUCT.md).**
 
 We strongly believe that those two documents will evolve over time so as to fulfill our community needs even better as our community grows and gets more experienced and mature. We want to keep all our efforts transparent, that's why we're always open for your feedback! You can submit it either with an issue or simply by contacting us at community@auth0.com.
 
-<<<<<<< HEAD
 ### 📠 Syncing and communicating
-=======
-### Syncing and communicating
->>>>>>> master
 
 We'd really love to have our collaboration flourish on all grounds and we think that establishing some processes around syncing and communicating are crucial to this. We'd like to introduce Slack guest channels or even host monthly webinars for community contributors at some point for the purpose of regular syncs and we're currently evaluating those options but for now we want to use following tools to make most out of our communication:
 
@@ -73,18 +57,10 @@ We'd really love to have our collaboration flourish on all grounds and we think 
 
 In the last one you can find threads for each auth0-community GitHub org repo. As everyone is time-constraint and we do sometimes have limited bandwidth we want everyone to make their contribution toward discussing, reviewing and solving/merging issues and PRs! We're all in this together! 🤜🏼🤛🏻
 
-<<<<<<< HEAD
 ### 🏆 Community Contributors Reward System
 
 Currently in planning. Stay tuned! 🤟🏼
 
 ### 🧾 License
-=======
-### Community Contributors Reward System
-
-Currently in planning. Stay tuned! 🤟🏼
-
-### License
->>>>>>> master
 
 This repo is [MIT licensed.](https://github.com/auth0-community/getting-started/blob/master/LICENSE)

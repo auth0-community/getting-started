@@ -77,6 +77,7 @@ Reviews and feedback must be helpful and made towards improving the contribution
 
 Whether it's about issues or PRs make use of labels, so that the rest of the community can prioritize and address those accordingly. Here are the labels that you can use:
 
+* **announcement**: Announcements
 * **beginner-friendly**: Easy to implement fixes or changes for newbies
 * **bug**: Something isn't working
 * **duplicate**: This issue or pull request already exist

@@ -1,5 +1,4 @@
 <div align="center">
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors)
 <br>
 <img src="/Assets/Auth0_Community_Banner.png"
 />
@@ -19,6 +18,21 @@
 <img src="/Assets/join_auth0_community_badge.png"/>
 </a>
 </div>
+
+## Contributors ✨
+
+Thanks goes to these wonderful people for contributing and maintaining this repo ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore -->
+<table>
+  <tr>
+    <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#maintenance-beardaway" title="Maintenance">🚧</a></td>
+  </tr>
+</table>
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+------------------------------------------
 
 Welcome to our intro space 👋 This is your place to go to get some hands-on tips on how to make our mutual contribution experience to Auth0 Community repos the best out there! We strongly believe in power of open source software, that's why we're putting together this repo to make your contributions and our collaboration as smooth as possible 🤝 As we're always in the process of improving, there will be gradual changes implemented to this repo as well as auth0-community contributing experience in general. Keep your fingers crossed and watch out for facilitations 🤞🏼
 
@@ -65,19 +79,3 @@ Currently in planning. Stay tuned! 🤟🏼
 ### 🧾 License
 
 This repo is [MIT licensed.](https://github.com/auth0-community/getting-started/blob/master/LICENSE)
-
-## Contributors ✨
-
-Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
-
-<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore -->
-<table>
-  <tr>
-    <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#maintenance-beardaway" title="Maintenance">🚧</a></td>
-  </tr>
-</table>
-
-<!-- ALL-CONTRIBUTORS-LIST:END -->
-
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

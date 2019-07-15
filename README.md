@@ -19,7 +19,7 @@
 </a>
 </div>
 
-## Contributors ✨
+### Contributors ✨
 
 Thanks goes to these wonderful people for contributing and maintaining this repo ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 
@@ -32,9 +32,10 @@ Thanks goes to these wonderful people for contributing and maintaining this repo
 </table>
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
-------------------------------------------
 
-Welcome to our intro space 👋 This is your place to go to get some hands-on tips on how to make our mutual contribution experience to Auth0 Community repos the best out there! We strongly believe in power of open source software, that's why we're putting together this repo to make your contributions and our collaboration as smooth as possible 🤝 As we're always in the process of improving, there will be gradual changes implemented to this repo as well as auth0-community contributing experience in general. Keep your fingers crossed and watch out for facilitations 🤞🏼
+### Welcome to our intro space 👋 
+
+This is your place to go to get some hands-on tips on how to make our mutual contribution experience to Auth0 Community repos the best out there! We strongly believe in power of open source software, that's why we're putting together this repo to make your contributions and our collaboration as smooth as possible 🤝 As we're always in the process of improving, there will be gradual changes implemented to this repo as well as auth0-community contributing experience in general. Keep your fingers crossed and watch out for facilitations 🤞🏼
 
 ### 👋 Intro
 

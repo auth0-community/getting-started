@@ -19,7 +19,7 @@
 </a>
 </div>
 
-### Contributors ✨
+### Contributors
 
 Thanks goes to these wonderful people for contributing and maintaining this repo ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
 

@@ -27,7 +27,7 @@ Thanks goes to these wonderful people for contributing and maintaining this repo
 <!-- prettier-ignore -->
 <table>
   <tr>
-    <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#maintenance-beardaway" title="Maintenance">🚧</a></td>
+    <td align="center"><a href="https://twitter.com/beardaway"><img src="https://avatars3.githubusercontent.com/u/11062800?v=4" width="100px;" alt="Conrad Sopala"/><br /><sub><b>Conrad Sopala</b></sub></a><br /><a href="#maintenance-beardaway" title="Maintenance">🚧</a> <a href="#review-beardaway" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 

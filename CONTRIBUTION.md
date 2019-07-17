@@ -90,6 +90,7 @@ Whether it's about issues or PRs make use of labels, so that the rest of the com
 * **difficulty: easy**: Quick to review and merge fixes or additions
 * **difficulty: medium**: Fixes or additions that will take approximately a few hours to review and merge
 * **difficulty: hard**: Fixes or additions that will take approximately a few days to review and merge
+* **hacktoberfest**: Hacktoberfest contribution
 
 ### 🤷 Question? Problem? Where else can I go for help?
 
